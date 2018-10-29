@@ -16,17 +16,16 @@ body
     font-family: "Calibri";
     font-size: 20pt;
     text-align: center;
-    color: black;
+    color: #CC9966;
 
 }
 .containes
 {
     background: #996633;
     padding: 15px;
-    border: solid 4px #FFCC99;
+    border: solid 4px #CC0033;
     font-family: "Calibri";
     font-size: 14pt;
-    font-color: #FFCC99;
 }
 
 summary
@@ -35,8 +34,9 @@ summary
     margin-bottom: 5px;
     background-color: #040813;
     border-radius: 25px;
-    color: #00d0ff;
+    color: #FFCC99;
 }
+
 blockquote
 {
     text-align: right;
@@ -44,7 +44,7 @@ blockquote
 }
 
 a {
-    color: #00d0ff; /* Цвет обычной ссылки */ 
+    color: #FFCC99; /* Цвет обычной ссылки */ 
     text-decoration: none;
 }
 
