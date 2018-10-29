@@ -3,12 +3,12 @@ body
     margin: 30px;
     padding-left: 100px;
     padding-right: 100px;
-    background-color: #040813;
+    background-color: #996633;
 }
 .head
 {
-    background: #2D6BA4;
-    border: solid 4px #00d0ff;
+    background: #996633;
+    border: solid 4px #FFCC99;
     padding: 10px;
     align-items: center;
     justify-content: center;
