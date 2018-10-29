@@ -9,7 +9,7 @@ body
 .head
 {
     background: #282827;
-    border: solid 4px #282827;
+    border: solid 4px #DCD8CF;
     padding: 10px;
     align-items: center;
     justify-content: center;
@@ -21,19 +21,18 @@ body
 }
 .containes
 {
-    background: #282827;
+    background: #DCD8CF;
     padding: 15px;
-    border: solid 3px #DCD8CF;
     font-family: "Calibri";
     font-size: 14pt;
-    color: #DCD8CF;
+    color: #282827;
 }
 
 summary
 {    
     padding: 8px;
     margin-bottom: 5px;
-    background-color: #E25D33;
+    background-color: #282827;
     border: solid 3px #DCD8CF;
     color: #E25D33;
 }
@@ -52,7 +51,7 @@ a {
 b
 
 {
-    color: #DCD8CF; /* Цвет ссылке в формах */ 
+    color: #E25D33; /* Цвет ссылке в формах */ 
     text-decoration: none;
 }
 
