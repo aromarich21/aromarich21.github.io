@@ -5,6 +5,7 @@ body
     padding-right: 100px;
     background-color: #996633;
 }
+
 .head
 {
     background: #996633;
@@ -25,27 +26,5 @@ body
     border: solid 4px #FFCC99;
     font-family: "Calibri";
     font-size: 14pt;
-}
-summary
-{    
-    padding: 12px;
-    margin-bottom: 5px;
-    background-color: #663300;
-    border-radius: 25px;
-    color: #FFCC99;
-}
-blockquote
-{
-    text-align: right;
-    font-style: oblique;
-}
-
-a {
-    color: #FFCC99;
-    text-decoration: none;
-}
-
-img {
-    width: 600px;
-    height: 600px;
+    font-color: #FFCC99;
 }
