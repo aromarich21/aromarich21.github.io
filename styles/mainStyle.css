@@ -3,38 +3,39 @@ body
     margin: 30px;
     padding-left: 100px;
     padding-right: 100px;
-    background-color: #996633;
+    background-color: #B5B5B5;
 }
 
 .head
 {
-    background: #996633;
-    border: solid 4px #FFCC99;
+    background: #E25D33;
+    border: solid 4px #282827;
     padding: 10px;
     align-items: center;
     justify-content: center;
     font-family: "Calibri";
     font-size: 20pt;
     text-align: center;
-    color: #CC9966;
+    color: #282827;
 
 }
 .containes
 {
-    background: #996633;
+    background: #282827;
     padding: 15px;
-    border: solid 4px #CC0033;
+    border: solid 4px #DCD8CF;
     font-family: "Calibri";
     font-size: 14pt;
+    color: #DCD8CF;
 }
 
 summary
 {    
     padding: 12px;
     margin-bottom: 5px;
-    background-color: #040813;
+    background-color: #E25D33;
     border-radius: 25px;
-    color: #FFCC99;
+    color: #DCD8CF;
 }
 
 blockquote
@@ -44,7 +45,21 @@ blockquote
 }
 
 a {
-    color: #FFCC99; /* Цвет обычной ссылки */ 
+    color: #DCD8CF; /* Цвет ccылки в хэде */ 
+    text-decoration: none;
+}
+
+b
+
+{
+    color: #DCD8CF; /* Цвет ссылке в формах */ 
+    text-decoration: none;
+}
+
+c
+
+{
+    color: #E25D33; /* Цвет ссылке в теле */ 
     text-decoration: none;
 }
 
