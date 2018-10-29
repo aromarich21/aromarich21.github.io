@@ -28,3 +28,27 @@ body
     font-size: 14pt;
     font-color: #FFCC99;
 }
+
+summary
+{    
+    padding: 12px;
+    margin-bottom: 5px;
+    background-color: #040813;
+    border-radius: 25px;
+    color: #00d0ff;
+}
+blockquote
+{
+    text-align: right;
+    font-style: oblique;
+}
+
+a {
+    color: #00d0ff; /* Цвет обычной ссылки */ 
+    text-decoration: none;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+}
